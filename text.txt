@@ -1,0 +1,23 @@
+1. Front end developer berperan mengembangkan website dengan menggunakan baris kode HTML, CSS, dan JavaScript untuk menghasilkan website dengan tampilan yang menarik.
+    Berikut adalah macam-macam tugas front developer:
+        1. Menentukan struktur dan desain halaman website;
+        2. Memastikan desain web mampu memaksimalkan user experience;
+        3. Membuat fitur nampak muka yang meningkatkan user experience;
+        4. Memastikan keseimbangan antara fitur fungsional dengan estetis di website;
+        5. Memastikan desain web kompatibel untuk dilihat dari smartphone;
+        6. Melakukan optimasi website agar tetap cepat dan terus dapat dikembangkan;
+        7. Membuat halaman web menggunakan berbagai varian markup language;
+        8. Memastikan konsistensi branding melalui desain website;
+        9. Bekerja sama dengan back end developer untuk melakukan coding dan troubleshooting.
+
+2. Hardskil yang harus dikuasai seorang frontend developer:
+    1. HTML & CSS
+    2. JavaScript
+    3. Framework CSS & JavaScript
+    4. CSS Preprosesor
+    5. GIT / Version control
+    6. Responsive Design
+    7. Debbuging / troubleshooting
+    8. Integrated development environment (IDE)
+    9. Optimalisasi website
+    10. Comandline / terminal
